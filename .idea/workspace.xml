@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task1/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task1/Task1Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task2/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task2/Task2Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task2/Validator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -48,7 +49,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.generic_type.task1.Task1Demo">
+  <component name="RunManager" selected="Application.generic_type.task2.Task2Demo">
     <configuration name="Task1Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enums.task1.Task1Demo" />
       <module name="advanced_task_revision" />
@@ -101,8 +102,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="generic_type.task2.Task2Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic_type.task2.Task2Demo" />
+      <module name="advanced_task_revision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generic_type.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.generic_type.task2.Task2Demo" />
         <item itemvalue="Application.generic_type.task1.Task1Demo" />
         <item itemvalue="Application.Task3Demo" />
         <item itemvalue="Application.Task2Demo" />
@@ -140,13 +155,21 @@
       <option name="project" value="LOCAL" />
       <updated>1692650472967</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task 1 from generic type">
+      <created>1692732921426</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692732921426</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task 1 from enums" />
     <MESSAGE value="task 2 from enums" />
     <MESSAGE value="task 3 from enums" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 3 from enums" />
+    <MESSAGE value="task 1 from generic type" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1 from generic type" />
   </component>
 </project>
