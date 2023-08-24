@@ -7,6 +7,7 @@ public enum TemperatureConvert {
             return (tempIn * 9 / 5) + 32;
         }
     }),
+    /*     C_F('C', 'F', temp -> temp * 9 / 5 + 32)*/
     C_K('C', 'K', new Converter() {
         @Override
         public float convert(float tempIn) {

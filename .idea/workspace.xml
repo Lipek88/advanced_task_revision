@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task2/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task2/Task2Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task2/Validator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enums/task3/TemperatureConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/task3/TemperatureConvert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692732921426</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task 2 from generic type">
+      <created>1692734260799</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692734260799</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,6 +175,7 @@
     <MESSAGE value="task 2 from enums" />
     <MESSAGE value="task 3 from enums" />
     <MESSAGE value="task 1 from generic type" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 1 from generic type" />
+    <MESSAGE value="task 2 from generic type" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 2 from generic type" />
   </component>
 </project>
