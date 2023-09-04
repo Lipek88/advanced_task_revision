@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task4/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task4/GenericItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task4/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task4/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task4/Newspaper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generic_type/task4/Task$Demo.java" afterDir="false" />
+    <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="task 4 from generic type&#10;komentarz dotyczący klasy rozszerzającej typy generyczne">
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/task1/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -48,31 +44,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Problems",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.generic_type.task3.Task3Demo">
-    <configuration name="Task2Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enums.task2.Task2Demo" />
+  <component name="RunManager" selected="Application.Task1">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.task1.Task1" />
       <module name="advanced_task_revision" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enums.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task3Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enums.task3.Task3Demo" />
-      <module name="advanced_task_revision" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="enums.task3.*" />
+          <option name="PATTERN" value="io.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.main" />
+      <module name="advanced_task_revision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.generic_type.task3.Task3Demo" />
         <item itemvalue="Application.generic_type.task2.Task2Demo" />
         <item itemvalue="Application.generic_type.task1.Task1Demo" />
-        <item itemvalue="Application.Task3Demo" />
-        <item itemvalue="Application.Task2Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692907401756</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="task 4 from generic type&#10;komentarz dotyczący klasy rozszerzającej typy generyczne">
+      <created>1692910516785</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692910516785</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -198,6 +201,7 @@
     <MESSAGE value="task 2 from generic type" />
     <MESSAGE value="task 3 from enums&#10;change override method using lambda" />
     <MESSAGE value="task 3 from generic type" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 3 from generic type" />
+    <MESSAGE value="task 4 from generic type&#10;komentarz dotyczący klasy rozszerzającej typy generyczne" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 4 from generic type&#10;komentarz dotyczący klasy rozszerzającej typy generyczne" />
   </component>
 </project>
