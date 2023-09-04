@@ -16,7 +16,7 @@ public class Task1 {
         File file = new File("C:\\Users\\macie\\IdeaProjects\\advanced_task_revision\\src\\main\\java\\io\\task1\\plik2.txt");
         File file2 = new File("C:\\Users\\macie\\IdeaProjects\\advanced_task_revision\\src\\main\\java\\io\\task1");
         // file służy do "dobrania się" do jakiegoś folderu/ katalogu
-        
+
         file.createNewFile(); // konieczne, by utworzyć plik
         System.out.println(list("C:\\Users\\macie\\IdeaProjects\\advanced_task_revision\\src\\main\\java\\io\\task1"));
         System.out.println("**********");

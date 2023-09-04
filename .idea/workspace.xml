@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="task 4 from generic type&#10;komentarz dotyczący klasy rozszerzającej typy generyczne">
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/task1/Task1.java" afterDir="false" />
+    <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="task 1 from io&#10;two difficult solution">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/task2/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/task1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/task1/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task1">
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.task1.Task1" />
       <module name="advanced_task_revision" />
@@ -63,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generic_type.task1.Task1Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic_type.task1.Task1Demo" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.task2.Task2" />
       <module name="advanced_task_revision" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic_type.task1.*" />
+          <option name="PATTERN" value="io.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.generic_type.task3.Task3Demo" />
         <item itemvalue="Application.generic_type.task2.Task2Demo" />
-        <item itemvalue="Application.generic_type.task1.Task1Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1692910516785</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="task 1 from io&#10;two difficult solution">
+      <created>1693856861054</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693856861054</updated>
+    </task>
+    <task id="LOCAL-00010" summary="task 1 from io&#10;two difficult solution">
+      <created>1693856946369</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1693856946369</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -202,6 +215,7 @@
     <MESSAGE value="task 3 from enums&#10;change override method using lambda" />
     <MESSAGE value="task 3 from generic type" />
     <MESSAGE value="task 4 from generic type&#10;komentarz dotyczący klasy rozszerzającej typy generyczne" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 4 from generic type&#10;komentarz dotyczący klasy rozszerzającej typy generyczne" />
+    <MESSAGE value="task 1 from io&#10;two difficult solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1 from io&#10;two difficult solution" />
   </component>
 </project>
