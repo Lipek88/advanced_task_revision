@@ -9,5 +9,6 @@ public class Task1Demo {
 
         Pair<Integer, Integer> pair2 = new Pair<>(2, 1);
 
+
     }
 }

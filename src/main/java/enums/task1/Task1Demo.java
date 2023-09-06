@@ -15,5 +15,7 @@ public class Task1Demo {
         weekday2.whichIsGreater(Weekday.MONDAY);
         weekday1.whichIsGreater(Weekday.TUESDAY);
 
+        Weekday.SATURDAY.whichIsGreater(Weekday.SUNDAY);
+
     }
 }
