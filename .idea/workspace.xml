@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/Task5/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/Task5/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/task3/task3file" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/task3/Task3.java" afterDir="false" />
-    </list>
+    <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694032549064</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="taak 4 IO">
+      <created>1694462509444</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694462509444</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -227,6 +228,7 @@
     <MESSAGE value="task 4 from generic type&#10;komentarz dotyczący klasy rozszerzającej typy generyczne" />
     <MESSAGE value="task 1 from io&#10;two difficult solution" />
     <MESSAGE value="taak 3 z IO - problem ze sciezka" />
-    <option name="LAST_COMMIT_MESSAGE" value="taak 3 z IO - problem ze sciezka" />
+    <MESSAGE value="taak 4 IO" />
+    <option name="LAST_COMMIT_MESSAGE" value="taak 4 IO" />
   </component>
 </project>
