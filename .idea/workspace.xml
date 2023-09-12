@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="task 2 from io">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/Task5/plikTask5.txt" afterDir="false" />
+    <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/Task5/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/Task5/Task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/Task5V2/Task5v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/Task5V2/Task5v2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/Task5V2/testowy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/Task5V2/testowy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/task3/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +48,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task5v2">
+  <component name="RunManager" selected="Application.Task4v2">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.task1.Task1" />
       <module name="advanced_task_revision" />
@@ -91,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.Task5.Task5" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.Task4.Task4" />
       <module name="advanced_task_revision" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.Task5.*" />
+          <option name="PATTERN" value="io.Task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.Task5V2.Task5v2" />
+    <configuration name="Task4v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.Task4V2.Task4v2" />
       <module name="advanced_task_revision" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.Task5V2.*" />
+          <option name="PATTERN" value="io.Task4V2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,9 +116,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task5v2" />
+        <item itemvalue="Application.Task4v2" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
       </list>
@@ -213,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693857642518</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="task 4 from io">
+      <created>1694547252453</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694547252453</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -227,6 +231,7 @@
     <MESSAGE value="task 4 from generic type&#10;komentarz dotyczący klasy rozszerzającej typy generyczne" />
     <MESSAGE value="task 1 from io&#10;two difficult solution" />
     <MESSAGE value="task 2 from io" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 2 from io" />
+    <MESSAGE value="task 4 from io" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 4 from io" />
   </component>
 </project>
