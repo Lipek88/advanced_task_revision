@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/Task5V2/Task5v2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/Task5V2/testowy" afterDir="false" />
+    <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="task 2 from io">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/Task5/plikTask5.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/Task5/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/Task5/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/Task5V2/Task5v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/Task5V2/Task5v2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/Task5V2/testowy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/Task5V2/testowy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/task3/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +46,6 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java/advanced_task_revision&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -118,8 +120,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Task5v2" />
-        <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
       </list>
@@ -204,28 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693856946369</updated>
     </task>
-    <task id="LOCAL-00011" summary="taak 3 z IO - problem ze sciezka">
-      <created>1694032549064</created>
+    <task id="LOCAL-00011" summary="task 2 from io">
+      <created>1693857642518</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1694032549064</updated>
+      <updated>1693857642518</updated>
     </task>
-    <task id="LOCAL-00012" summary="taak 4 IO">
-      <created>1694462509444</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1694462509444</updated>
-    </task>
-    <task id="LOCAL-00013" summary="taak 4 IO">
-      <created>1694463118380</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1694463118381</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -238,8 +226,7 @@
     <MESSAGE value="task 3 from generic type" />
     <MESSAGE value="task 4 from generic type&#10;komentarz dotyczący klasy rozszerzającej typy generyczne" />
     <MESSAGE value="task 1 from io&#10;two difficult solution" />
-    <MESSAGE value="taak 3 z IO - problem ze sciezka" />
-    <MESSAGE value="taak 4 IO" />
-    <option name="LAST_COMMIT_MESSAGE" value="taak 4 IO" />
+    <MESSAGE value="task 2 from io" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 2 from io" />
   </component>
 </project>

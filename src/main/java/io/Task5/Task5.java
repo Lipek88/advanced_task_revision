@@ -10,7 +10,7 @@ public class Task5 {
     public static void main(String[] args) throws FileNotFoundException {
 
 
-        BufferedReader bufferedReader2 = new BufferedReader(new FileReader("D:/Java/advanced_task_revision/src/main/java/io/Task5/test")); //slasze w prawo zamiast dwóch slaszy w lewo
+        BufferedReader bufferedReader2 = new BufferedReader(new FileReader("C:\\Users\\macie\\IdeaProjects\\advanced_task_revision\\src\\main\\java\\io\\task5\\plikTask5.txt")); //slasze w prawo zamiast dwóch slaszy w lewo
 
         String temporary ="";
 
@@ -18,7 +18,7 @@ public class Task5 {
             String stringline;
 
 
-            BufferedReader bufferedReader = new BufferedReader(new FileReader("D:\\Java\\advanced_task_revision\\src\\main\\java\\io\\Task5\\test"));
+            BufferedReader bufferedReader = new BufferedReader(new FileReader("C:\\Users\\macie\\IdeaProjects\\advanced_task_revision\\src\\main\\java\\io\\task5\\plikTask5.txt"));
             while((stringline = bufferedReader.readLine()) !=null)
             {
                 if(stringline.length()>temporary.length())
