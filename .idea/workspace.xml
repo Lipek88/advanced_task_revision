@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/Task5/List" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/Task5/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/Task5/Task5demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/Task5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/Task5/UserParser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/Task5V2/Task5v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/Task5V2/Task5v2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/Task5V2/testowy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/Task5V2/testowy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +51,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task4v2">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.task1.Task1" />
-      <module name="advanced_task_revision" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task5">
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.task2.Task2" />
       <module name="advanced_task_revision" />
@@ -114,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.Task5.Task5" />
+      <module name="advanced_task_revision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.Task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4v2" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
