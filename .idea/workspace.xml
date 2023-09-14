@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48317f55-83d6-48a0-8ebb-60d04888607c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/Task6/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/Task6/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/task2/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/task2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/task2/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/task2/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/task2/Task2Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +22,7 @@
       <list>
         <option value="Interface" />
         <option value="package-info" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -48,13 +52,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task6">
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.task3.Task3" />
+  <component name="RunManager" selected="Application.Task2Demo">
+    <configuration name="Task2Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.task2.Task2Demo" />
       <module name="advanced_task_revision" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.task3.*" />
+          <option name="PATTERN" value="collections.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.Task4.Task4" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.task3.Task3" />
       <module name="advanced_task_revision" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.Task4.*" />
+          <option name="PATTERN" value="io.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2Demo" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4v2" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>
